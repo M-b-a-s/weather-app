@@ -7,7 +7,7 @@ Clima(***spanish for weather***) is a simple weather app that checks:
 
 ---
 ## Design
-The design inspiration was from [Thomas Engebrand](https://dribbble.com/shots/3202409-Weather-App), made a few adjustments, added vanilla-tilt.js anda bit of glassmorphism
+The design inspiration was from [Thomas Engebrand](https://dribbble.com/shots/3202409-Weather-App), made a few adjustments.
 
 ---
 
